@@ -1,23 +1,23 @@
 criaCartao(
-    'Geografia',
-    'Em qual continente fica o deserto do Saara?',
-    'O deserto do Saara fica no continente africano.'
+    'One PIece',
+    'qual o nome do primeiro barco da tripulaçao do chapeu de palha?',
+    'O nome do barco é Going merry.'
 )
 
 criaCartao(
-    'Conhecimentos Gerais',
-    'Qual é o animal mais lento do mundo?',
-    'O animal mais lento do mundo é o bicho-preguiça, que se move a uma velocidade média de apenas 0,03 km/h! 🦥'
+    'Pokemon',
+    'Qual é o nome do primeiro pokemon do ash?',
+    'pikachu 🦥'
 )
 
 criaCartao(
-    'Biologia',
-    'Qual animal é conhecido por ter a língua mais longa em relação ao tamanho do corpo?',
-    'O camaleão é conhecido por ter a língua mais longa em relação ao tamanho do corpo. Sua língua pode ser até duas vezes o comprimento de seu corpo!'
+    'free fire ',
+    'Qual o nome da proteçao usa pelos jogadores no free fire?',
+    'Gelo m'
 )
 
 criaCartao(
-    'Conhecimentos Gerais',
-    'Qual país é conhecido como a "terra do sol nascente"?',
-    'O Japão é conhecido como a "terra do sol nascente" devido à sua localização geográfica, onde o sol nasce primeiro em relação ao continente asiático.'
+    'Brawl stars ',
+    'Qual o lançador com o ataque mais longo do brawl stars?',
+    'O lançador com o ataque mais longo é o tick.'
 )
